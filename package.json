@@ -1,0 +1,17 @@
+{
+  "name": "base64-test",
+  "version": "0.0.1",
+  "description": "Base64-Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "Nathakit Sae-Tan",
+  "license": "MIT",
+  "devDependencies": {
+    "ajax-request": "^1.2.3"
+  }
+}
